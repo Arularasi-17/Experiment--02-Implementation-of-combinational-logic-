@@ -27,7 +27,8 @@ RegisterNumber:23013049
 ## RTL realization
 
 ## Output:
-![LOGIC GATE IMPLEMENTATION](https://github.com/Arularasi-17/Experiment--02-Implementation-of-combinational-logic-/assets/147410018/97ef57fe-d08e-4558-844c-f9d4afb91d79)
+![CODE IMPLEMENTATION](https://github.com/Arularasi-17/Experiment--02-Implementation-of-combinational-logic-/assets/147410018/d117e762-65bc-4af1-92ba-f20a7b4f1c01)
+
 ![WAVEFORM IMPLEMENTATION](https://github.com/Arularasi-17/Experiment--02-Implementation-of-combinational-logic-/assets/147410018/92e8fddf-dbfb-4729-a403-18bacaf47322)
 
 
